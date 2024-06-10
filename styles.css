@@ -68,3 +68,12 @@ footer {
 footer p {
     margin: 0;
 }
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
